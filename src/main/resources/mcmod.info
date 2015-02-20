@@ -1,0 +1,21 @@
+[
+{
+  "modid": "tmo",
+  "name": "The Most Op Mod ever made",
+  "description": "More op then",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Black_dog20, SimmeBabz"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
