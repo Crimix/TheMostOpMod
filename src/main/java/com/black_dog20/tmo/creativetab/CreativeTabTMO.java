@@ -13,8 +13,7 @@ public class CreativeTabTMO {
 	 @Override
      public Item getTabIconItem()
      {
-		return null;
-        //return ModItems.;
+        return ModItems.tool;
      }
 
      @Override
